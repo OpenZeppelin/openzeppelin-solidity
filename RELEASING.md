@@ -10,10 +10,10 @@ Publish a release candidate with `npm run release rc`.
 
 Publish the final release with `npm run release final`.
 
-Follow the general [OpenZeppelin release checklist].
+Follow the general [OpenZeppelin Contracts release checklist].
 
 [details about release schedule]: https://docs.openzeppelin.com/contracts/releases-stability
-[OpenZeppelin release checklist]: https://github.com/OpenZeppelin/code-style/blob/master/RELEASE_CHECKLIST.md
+[OpenZeppelin Contracts release checklist]: https://github.com/OpenZeppelin/code-style/blob/master/RELEASE_CHECKLIST.md
 
 
 ## Merging the release branch

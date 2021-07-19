@@ -7,7 +7,7 @@ Access control—that is, "who is allowed to do this thing"—is incredibly impo
 
 The most common and basic form of access control is the concept of _ownership_: there's an account that is the `owner` of a contract and can do administrative tasks on it. This approach is perfectly reasonable for contracts that have a single administrative user.
 
-OpenZeppelin provides xref:api:access.adoc#Ownable[`Ownable`] for implementing ownership in your contracts.
+OpenZeppelin Contracts provides xref:api:access.adoc#Ownable[`Ownable`] for implementing ownership in your contracts.
 
 [source,solidity]
 ----

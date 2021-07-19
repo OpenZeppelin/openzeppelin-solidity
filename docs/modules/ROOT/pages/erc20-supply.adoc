@@ -108,4 +108,4 @@ contract ERC20WithAutoMinerReward is ERC20 {
 [[wrapping-up]]
 == Wrapping Up
 
-We've seen two ways to implement ERC20 supply mechanisms: internally through `_mint`, and externally through `ERC20PresetMinterPauser`. Hopefully this has helped you understand how to use OpenZeppelin and some of the design principles behind it, and you can apply them to your own smart contracts.
+We've seen two ways to implement ERC20 supply mechanisms: internally through `_mint`, and externally through `ERC20PresetMinterPauser`. Hopefully this has helped you understand how to use OpenZeppelin Contracts and some of the design principles behind it, and you can apply them to your own smart contracts.

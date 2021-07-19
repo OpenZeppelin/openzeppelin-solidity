@@ -1,7 +1,7 @@
 Design Guidelines
 =======
 
-These are some global design goals in OpenZeppelin.
+These are some global design goals in OpenZeppelin Contracts.
 
 #### D0 - Security in Depth
 We strive to provide secure, tested, audited code. To achieve this, we need to match intention with function. Thus, documentation, code clarity, community review and security discussions are fundamental.

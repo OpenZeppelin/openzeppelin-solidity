@@ -24,7 +24,7 @@ After several months or a year a new major release may come out. These are not s
 [[api-stability]]
 == API Stability
 
-On the https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v2.0.0[OpenZeppelin 2.0 release], we committed ourselves to keeping a stable API. We aim to more precisely define what we understand by _stable_ and _API_ here, so users of the library can understand these guarantees and be confident their project won't break unexpectedly.
+On the https://github.com/OpenZeppelin/openzeppelin-contracts/releases/tag/v2.0.0[OpenZeppelin Contracts 2.0 release], we committed ourselves to keeping a stable API. We aim to more precisely define what we understand by _stable_ and _API_ here, so users of the library can understand these guarantees and be confident their project won't break unexpectedly.
 
 In a nutshell, the API being stable means _if your project is working today, it will continue to do so after a minor upgrade_. New contracts and features will be added in minor releases, but only in a backwards compatible way.
 
